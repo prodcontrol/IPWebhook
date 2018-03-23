@@ -1,0 +1,15 @@
+{ 
+"India Sites":
+    {
+    "Value1":
+      { 
+        "Location": "Test1",
+        "IP Address": "192.168.1.200"
+      },
+      "Value2":
+      { 
+        "Location": "Test2",
+        "IP Address": "192.168.1.201"
+      }
+   }
+}
